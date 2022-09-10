@@ -1,0 +1,51 @@
+body {
+    font-size: 15pt;
+    background-color: rgb(30, 30, 30);
+    
+}
+
+.icon1 { color: orangered; 
+font-size: 44px;
+margin-bottom: -10%;
+margin-left: 85%;
+}
+
+.header {
+  background-color: transparent;
+  width: 330px;
+  height: 100px;
+  border-radius: 25px;
+  border-color: orangered;
+  border-style: groove;
+  border-width: 7px;
+}
+
+.text1 {
+  color: orangered;
+  margin-top: -25%;
+  margin-left: 5%;
+}
+ 
+.status {
+  width: 330px;
+  height: 30px;
+  border-radius: 25px;
+  border-color: greenyellow;
+  border-style: groove;
+  border-width: 5px;
+  margin-top: 14%;
+}
+
+.icon2 { 
+color: greenyellow; 
+font-size: 24px;
+margin-top: 0%;
+margin-left: 85%;
+}
+
+.text2 {
+  font-size: 12pt;
+  color: greenyellow;
+  margin-top: -9%;
+  margin-left: 2%;
+}
